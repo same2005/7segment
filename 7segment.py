@@ -31,3 +31,9 @@ try:
 except KeyboardInterrupt:
     print("Properly closing the clock and open GPIO pins")
     Display.cleanup()
+4 digit 7 segment 
+Connections -
+Clk 40 yellow
+Input 38 white
+Vcc 2 grey
+Ground gno 6 purple
